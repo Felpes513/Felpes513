@@ -5,8 +5,6 @@
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-souza-moreira-45292220b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://felpes513.github.io/Portfolio/)
 
-![Felpes513 GitHub stats](https://github-readme-stats.vercel.app/api?username=Felpes513&show_icons=true&theme=radical)
-
 ## Tecnologia que uso no meu dia
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
