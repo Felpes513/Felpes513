@@ -1,57 +1,61 @@
 # 👋 Olá! Eu sou o Felipe Souza Moreira
 
-🎯 Desenvolvedor em transição de carreira, apaixonado por tecnologia, automação e soluções inteligentes. Atualmente trabalhando com Analista de Teste de Software e estudando para me tornar desenvolvedor backend Java com foco em cloud.
+🎯 Desenvolvedor em transição de carreira, apaixonado por tecnologia, automação e soluções inteligentes.  
+Atualmente trabalho como **Analista de Teste de Software** e estudo para me tornar **Desenvolvedor Full Stack**.
 
 ---
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-souza-moreira-45292220b)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemoreira2003@gmail.com)
+[<img src="./assets/icons/linkedin.png" width="32"/>](https://www.linkedin.com/in/felipe-souza-moreira-45292220b)
+[<img src="./assets/icons/gmail.png" width="32"/>](mailto:felipemoreira2003@gmail.com)
+[<img src="./assets/icons/github.png" width="32"/>](https://github.com/Felpes513) 
+[<img src="./assets/icons/portfolio.png" width="32">](https://felpes513.github.io/Portfolio/)
 
-
-
-[Link do meu Portfólio](https://felpes513.github.io/Portfolio/) 
 ---
 
 ## 🧠 Tecnologias que uso no meu dia a dia
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="./assets/icons/java.png" width="40" />
+  <img src="./assets/icons/spring.png" width="40" />
+  <img src="./assets/icons/mysql.png" width="40" />
+  <img src="./assets/icons/angular.png" width="40" />
+  <img src="./assets/icons/html.png" width="40" />
+  <img src="./assets/icons/css-3.png" width="40" />
+  <img src="./assets/icons/js.png" width="40">
+  <img src="./assets/icons/docker.png" width="40" />
+</p>
 
 ---
 
 ## ☁️ Interesses atuais
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="left">
+  <img src="./assets/icons/aws.png" width="40" />
+  <img src="./assets/icons/MongoDB.png" width="40" />
+  <img src="./assets/icons/selenium.svg" width="40" />
+  <img src="./assets/icons/postman.svg" width="40" />
+  <img src="./assets/icons/insomnia.png" width="40" />
+</p>
 
 ---
 
 ## 🛠️ Projetos em destaque
 
-- 🤖 **[Chatbot de Exames Médicos](https://github.com/Felpes513/chatbot)**  
-  Busca de exames com Python + MySQL + interface web.
+- 📚 **[SGPIC - Sistema de Gerenciamento de Projetos Científicos [FrontEnd])](https://github.com/Felpes513/FrontTCC)**  
+  Front-end do sistema de gerenciamento acadêmico (Angular + Material Design).
 
-- 📚 **[Sistema de Gestão de Projetos Científicos (SGPIC)](https://github.com/Felpes513/Spring)**  
-  Back-end com Java + Spring Boot, arquitetura híbrida SQL/NoSQL.
+- ⚙️ **[SGPIC - Sistema de Gerenciamento de Projetos Científicos [BackEnd]](https://github.com/Felpes513/UscsTCC)**  
+  Back-end em FastAPI + MySQL/MongoDB + RabbitMQ, com arquitetura em camadas.
+
+- 🤖 **[Chatbot de Exames Médicos](https://github.com/Felpes513/chatbot)**  
+  Busca de exames com integração a banco MySQL e interface web.
+
 
 
 ---
 
-## 📜 Certificações e estudos
-[![AWS Academy](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b4c5ead2-3f86-4a0c-8d15-792a10f5aa44/public_url)
-
-[![CCNA](https://img.shields.io/badge/Cisco_CCNA-1D63ED?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/b0e800e6-cbc7-47e2-8fa8-ccbf824cd3e1/public_url)
-
-[![IBM Enterprise Design Thinking](https://img.shields.io/badge/Enterprise_Design_Thinking-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/f4b34c38-0d62-489c-9174-60115e59b692/public_url)
-
-
-
 🎓 Atualmente curso **Ciência da Computação** na Universidade Municipal de São Caetano do Sul (USCS).  
-📘 Estou estudando para certificações como **AWS Cloud Practitioner** e **ISTQB (CTFL)** na área de **Qualidade de Software**.  
-🚀 Estou sempre em busca de **novos projetos** que me ajudem a crescer como desenvolvedor e solucionar problemas reais com tecnologia.
+📘 Estudando para certificações, aprimorar meus conhecimentos e construir valores em minha carreira.  
+🚀 Sempre em busca de **novos projetos** que ajudem a crescer como desenvolvedor e solucionar problemas reais com tecnologia.
